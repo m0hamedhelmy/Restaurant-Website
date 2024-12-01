@@ -11,10 +11,10 @@ A professional restaurant website featuring an interactive menu, online reservat
 - Analytics dashboard for insights.
 
 ## Tech Stack
-- **Frontend:** React.js, HTML, CSS
+- **Frontend:** Java script, HTML, CSS
 - **Backend:** Django
 - **Database:** MySQL
-- **Deployment:** [Your hosting platform]
+
 
 ## Getting Started
 ### Prerequisites
